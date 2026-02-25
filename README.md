@@ -6,6 +6,7 @@ Brief: Jupyter notebook that preprocesses a traffic-sign image dataset, trains a
 - X_processed.npy, y_labels.npy - saved processed arrays
 - mlp_model.keras, svc_model.pkl - saved models
 - grids 1 2 and 3 (e.g. grid1.pkl) - saved batches of GridSearchCV for different kernels
+- Please note some of the files (e.g. grids and X_processed are missing due to github size limitations, but upon running the script they will be generated).
 
 ## Requirements 
 - Python 3.9.21 or above
@@ -81,6 +82,7 @@ The goal is to compare performance, runtime, and practicality of a neural net vs
 
 ## Report and Analysis of Two Models:
 https://docs.google.com/document/d/1ofvmsX4Tc1w9XthPqT04TtHxleGjXgIhuJNQPUYlUo0/edit?usp=sharing
+
 
 
 
