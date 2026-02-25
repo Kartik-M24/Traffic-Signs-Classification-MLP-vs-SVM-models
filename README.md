@@ -1,4 +1,4 @@
-# COMPSYS 306 — Traffic Sign Classification (Assignment 1)
+# Traffic Sign Classification
 Brief: Jupyter notebook that preprocesses a traffic-sign image dataset, trains an MLP (tf.keras) and an SVM (scikit-learn), and evaluates both models with standard metrics and confusion matrices.
 
 ## Files
@@ -78,4 +78,5 @@ The goal is to compare performance, runtime, and practicality of a neural net vs
 - svc_model.pkl — trained final SVM model
 - grid1.pkl, grid2.pkl, grid3.pkl — GridSearch checkpoints
 - Printed metrics and confusion matrix plots for both MLP and SVM
+
 
