@@ -79,4 +79,8 @@ The goal is to compare performance, runtime, and practicality of a neural net vs
 - grid1.pkl, grid2.pkl, grid3.pkl — GridSearch checkpoints
 - Printed metrics and confusion matrix plots for both MLP and SVM
 
+## Report and Analysis of Two Models:
+https://docs.google.com/document/d/1ofvmsX4Tc1w9XthPqT04TtHxleGjXgIhuJNQPUYlUo0/edit?usp=sharing
+
+
 
